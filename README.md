@@ -14,3 +14,5 @@ https://cursos.alura.com.br/course/integracao-continua-testes-automatizados-pipe
 - Descubra as vantagens de ter uma rotina de CI
 
 - Realize testes em uma aplicação de forma automática
+
+
